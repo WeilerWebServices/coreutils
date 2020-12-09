@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+79d705d9a7fe30560d5909778b0dbf9ce9a8f5f8 refs/remotes/origin/coreutils
+d37a62b8658e630dc9ffacf8ab1a8b67ed9477fd refs/remotes/origin/master
+101046f0a2582c9d4aa2b387d82e62229c1b7d45 refs/remotes/origin/move_sanitizer_configuration
+34ba3494eab56f9c3e55b6824411ef29416d2810 refs/remotes/origin/nss-corpus
+6189e8254d607be641b0b2b7b0d6964e2523fd7a refs/remotes/origin/src_and_out
+e0d5d8535203577f562173caf0ffcb590543ec6f refs/remotes/origin/target_yaml
